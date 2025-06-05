@@ -5,10 +5,10 @@ A powerful and easy-to-use Text-to-Image Converter that takes natural language i
 ## 🚀 Features
 
 - 🧠 Converts text prompts into high-quality images
-- 🎨 Supports various image styles (realistic, sketch, cartoon, etc.)
+- 🎨 Supports various image styles
 - ⏱️ Fast generation time with optimized model inference
-- 📦 Simple and clean UI (optional Streamlit/Flask app included)
-- 🧩 Plug-and-play model architecture (e.g., Stable Diffusion / DALL·E / GANs)
+- 📦 Simple and clean UI
+- 🧩 Plug-and-play model architecture
 - 🔧 Extensible for customization and fine-tuning
 
 ## 🛠️ Tech Stack
@@ -18,17 +18,3 @@ A powerful and easy-to-use Text-to-Image Converter that takes natural language i
 - PyTorch or TensorFlow
 - Streamlit / Flask (for UI)
 - OpenAI / Stability AI APIs (optional)
-
-## 📸 Demo
-
-| Prompt | Output |
-|--------|--------|
-| `"A futuristic cityscape at night"` | ![Cityscape](examples/cityscape.png) |
-| `"A cat wearing sunglasses and drinking coffee"` | ![Cat](examples/cat_coffee.png) |
-
-## 🔧 Installation
-
-```bash
-git clone https://github.com/yourusername/text-to-image-converter.git
-cd text-to-image-converter
-pip install -r requirements.txt
