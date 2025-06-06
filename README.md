@@ -1,4 +1,4 @@
-# 🖼️ Text-to-Image Converter
+# Text-to-Image Converter
 
 A powerful and easy-to-use Text-to-Image Converter that takes natural language input and generates stunning images using deep learning. Ideal for creative AI applications, content generation, and experimenting with vision-language models.
 
@@ -13,8 +13,6 @@ A powerful and easy-to-use Text-to-Image Converter that takes natural language i
 
 ## 🛠️ Tech Stack
 
-- Python 3.x
+- Python (Google Colab)
 - HuggingFace Transformers / Diffusers
 - PyTorch or TensorFlow
-- Streamlit / Flask (for UI)
-- OpenAI / Stability AI APIs (optional)
