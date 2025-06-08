@@ -16,3 +16,8 @@ A powerful and easy-to-use Text-to-Image Converter that takes natural language i
 - Python (Google Colab)
 - HuggingFace Transformers / Diffusers
 - PyTorch or TensorFlow
+
+## File Structure
+texttoimg/
+├── main.py                  
+├── README.md                
