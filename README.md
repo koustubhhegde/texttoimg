@@ -4,12 +4,12 @@ A powerful and easy-to-use Text-to-Image Converter that takes natural language i
 
 ## Features
 
-- 🧠 Converts text prompts into high-quality images
-- 🎨 Supports various image styles
-- ⏱️ Fast generation time with optimized model inference
-- 📦 Simple and clean UI
-- 🧩 Plug-and-play model architecture
-- 🔧 Extensible for customization and fine-tuning
+- Converts text prompts into high-quality images
+- Supports various image styles
+- Fast generation time with optimized model inference
+- Simple and clean UI
+- Plug-and-play model architecture
+- Extensible for customization and fine-tuning
 
 ## Tech Stack
 
