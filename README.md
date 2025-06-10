@@ -2,7 +2,7 @@
 
 A powerful and easy-to-use Text-to-Image Converter that takes natural language input and generates stunning images using deep learning. Ideal for creative AI applications, content generation, and experimenting with vision-language models.
 
-## 🚀 Features
+## Features
 
 - 🧠 Converts text prompts into high-quality images
 - 🎨 Supports various image styles
@@ -11,7 +11,7 @@ A powerful and easy-to-use Text-to-Image Converter that takes natural language i
 - 🧩 Plug-and-play model architecture
 - 🔧 Extensible for customization and fine-tuning
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python (Google Colab)
 - HuggingFace Transformers / Diffusers
