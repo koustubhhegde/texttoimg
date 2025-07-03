@@ -1,18 +1,16 @@
 # Text-to-Image Converter
-
-A powerful and easy-to-use Text-to-Image Converter that takes natural language input and generates stunning images using deep learning. Ideal for creative AI applications, content generation, and experimenting with vision-language models.
+This project implements a Text-to-Image Converter using deep learning models. It takes textual input from the user and generates a relevant image based on the description. The system leverages state-of-the-art NLP and Computer Vision models to translate natural language into visual representations.
 
 ## Features
+- Converts textual descriptions into realistic images
+- Supports detailed and creative prompts
+- User-friendly interface for entering text and viewing results
+- Fast generation with GPU acceleration support
+- Works with multiple styles (photorealistic, artistic, etc.)
 
-- Converts text prompts into high-quality images
-- Supports various image styles
-- Fast generation time with optimized model inference
-- Simple and clean UI
-- Plug-and-play model architecture
-- Extensible for customization and fine-tuning
+## Technologies Used
+Python - Core programming language
 
-## Tech Stack
+PyTorch / TensorFlow - For model implementation
 
-- Python (Google Colab)
-- HuggingFace Transformers / Diffusers
-- PyTorch or TensorFlow
+HuggingFace Transformers - For leveraging pretrained models like DALL·E or Stable Diffusion
